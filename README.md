@@ -1,5 +1,5 @@
 # Migrating you dotCMS database to Postgres
-While dotCMS can run on different databases, dotCMS Co has internally standardized our cloud instances on Postgres, the most advanced and scaleable open source database in the world.  Whenever possible, running dotCMS on Postgres is recommended for the best possible dotCMS experience.
+While dotCMS can run on different databases, dotCMS Co has internally standardized our cloud instances on Postgres, the most advanced and scaleable open source database in the world.  Whenever possible, we recommend running dotCMS on Postgres for the best possible dotCMS experience.
 
 ## Caveat Emptor
 The database migration process and scripts supplied are intended as best efforts examples only.  They are not supported or warrentied to work and YMMV and all that.
