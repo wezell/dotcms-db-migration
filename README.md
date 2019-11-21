@@ -1,5 +1,8 @@
 # Migrating to Postgres
 
+## Caveat Emptor
+The database migration process and scripts supplied are intended as best efforts examples only.  They are not supported or warrentied to work and YMMV and all that.
+
 ## Preparing the data
 
 ### Generating the database schema and necessary files
